@@ -1,0 +1,2 @@
+# Healthy-program-python
+This program help the person to follow his/her healthy rountine .Time table of schedule is set in the program after running our code its will executed just like alarming clock and notify user to follow the updated schedule of their daily rountine .This program helps user for follow its daily time table rountine which is most important now a days and also help in tracking the data.
